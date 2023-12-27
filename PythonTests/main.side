@@ -1,0 +1,95 @@
+{
+  "id": "d98391bc-f387-4c0e-88d7-c4396b0f8d4b",
+  "version": "2.0",
+  "name": "main",
+  "url": "http://127.0.0.1:5000",
+  "tests": [{
+    "id": "b5dfa0f1-a02c-416a-9454-7a53f4abed49",
+    "name": "main",
+    "commands": [{
+      "id": "f0fcf0b3-5989-4f8d-a030-5de4e30b895c",
+      "comment": "",
+      "command": "open",
+      "target": "/authorization",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7c3b1c6c-1625-4aa7-994f-c247c755e025",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1222x657",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c5e92fd6-216d-45a9-919a-57c7b095f1f0",
+      "comment": "",
+      "command": "click",
+      "target": "name=Login",
+      "targets": [
+        ["name=Login", "name"],
+        ["css=input:nth-child(2)", "css:finder"],
+        ["xpath=//input[@name='Login']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "04c05e3f-48f9-4088-988d-d881942232e2",
+      "comment": "",
+      "command": "type",
+      "target": "name=Login",
+      "targets": [
+        ["name=Login", "name"],
+        ["css=input:nth-child(2)", "css:finder"],
+        ["xpath=//input[@name='Login']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "user1"
+    }, {
+      "id": "caa1fd20-9e73-462a-8c75-945b1bce786f",
+      "comment": "",
+      "command": "click",
+      "target": "name=Password",
+      "targets": [
+        ["name=Password", "name"],
+        ["css=input:nth-child(4)", "css:finder"],
+        ["xpath=//input[@name='Password']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3adab4ed-bf24-455c-ada3-fe8d80c10482",
+      "comment": "",
+      "command": "type",
+      "target": "name=Password",
+      "targets": [
+        ["name=Password", "name"],
+        ["css=input:nth-child(4)", "css:finder"],
+        ["xpath=//input[@name='Password']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": "12345"
+    }, {
+      "id": "266bf93e-806f-4a88-ac0f-26b3e252f177",
+      "comment": "",
+      "command": "click",
+      "target": "css=button",
+      "targets": [
+        ["css=button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Войти')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "33706bbc-1642-4618-95ff-e7dfefc97eac",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["b5dfa0f1-a02c-416a-9454-7a53f4abed49"]
+  }],
+  "urls": ["http://127.0.0.1:5000/"],
+  "plugins": []
+}

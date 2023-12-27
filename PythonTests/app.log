@@ -1,0 +1,441 @@
+2023-12-27 14:10:29,399 - INFO - Using default request storage
+2023-12-27 14:10:29,418 - INFO - Created proxy listening on 127.0.0.1:63392
+2023-12-27 14:10:30,840 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:10:30,846 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:10:30,899 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:10:30,908 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:10:31,155 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:10:31,160 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:10:31,173 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user1
+2023-12-27 14:10:31,179 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user1 200 OK
+2023-12-27 14:10:31,256 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:10:31,256 - INFO - Request Body: b''
+2023-12-27 14:10:31,256 - INFO - Response Status: 200
+2023-12-27 14:10:31,256 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:10:31,256 - INFO - Request Body: b''
+2023-12-27 14:10:31,256 - INFO - Response Status: 200
+2023-12-27 14:10:31,256 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:10:31,256 - INFO - Request Body: b'Login=user1&Password=12345'
+2023-12-27 14:10:31,256 - INFO - Response Status: 302
+2023-12-27 14:10:31,256 - INFO - Request URL: http://127.0.0.1:5000/download_file/user1
+2023-12-27 14:10:31,256 - INFO - Request Body: b''
+2023-12-27 14:10:31,256 - INFO - Response Status: 200
+2023-12-27 14:10:34,315 - INFO - Using default request storage
+2023-12-27 14:10:34,327 - INFO - Created proxy listening on 127.0.0.1:63415
+2023-12-27 14:10:39,685 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:10:39,690 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:10:39,748 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:10:39,756 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:10:40,007 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:10:40,012 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:10:40,021 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user2
+2023-12-27 14:10:40,028 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user2 200 OK
+2023-12-27 14:10:40,122 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:10:40,122 - INFO - Request Body: b''
+2023-12-27 14:10:40,122 - INFO - Response Status: 200
+2023-12-27 14:10:40,122 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:10:40,122 - INFO - Request Body: b''
+2023-12-27 14:10:40,122 - INFO - Response Status: 200
+2023-12-27 14:10:40,122 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:10:40,122 - INFO - Request Body: b'Login=user2&Password=12345'
+2023-12-27 14:10:40,122 - INFO - Response Status: 302
+2023-12-27 14:10:40,122 - INFO - Request URL: http://127.0.0.1:5000/download_file/user2
+2023-12-27 14:10:40,122 - INFO - Request Body: b''
+2023-12-27 14:10:40,122 - INFO - Response Status: 200
+2023-12-27 14:11:19,558 - INFO - Using default request storage
+2023-12-27 14:11:19,573 - INFO - Created proxy listening on 127.0.0.1:63455
+2023-12-27 14:11:21,067 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:21,084 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:11:21,170 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:21,224 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:11:21,463 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:21,469 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:11:21,483 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user1
+2023-12-27 14:11:21,492 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user1 200 OK
+2023-12-27 14:11:21,589 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:21,589 - INFO - Request Body: b''
+2023-12-27 14:11:21,589 - INFO - Response Status: 200
+2023-12-27 14:11:21,589 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:21,589 - INFO - Request Body: b''
+2023-12-27 14:11:21,589 - INFO - Response Status: 200
+2023-12-27 14:11:21,590 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:21,590 - INFO - Request Body: b'Login=user1&Password=12345'
+2023-12-27 14:11:21,590 - INFO - Response Status: 302
+2023-12-27 14:11:21,590 - INFO - Request URL: http://127.0.0.1:5000/download_file/user1
+2023-12-27 14:11:21,590 - INFO - Request Body: b''
+2023-12-27 14:11:21,590 - INFO - Response Status: 200
+2023-12-27 14:11:24,636 - INFO - Using default request storage
+2023-12-27 14:11:24,642 - INFO - Created proxy listening on 127.0.0.1:63478
+2023-12-27 14:11:30,015 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:30,021 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:11:30,070 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:30,079 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:11:30,337 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:30,342 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:11:30,390 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:30,390 - INFO - Request Body: b''
+2023-12-27 14:11:30,390 - INFO - Response Status: 200
+2023-12-27 14:11:30,390 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:30,390 - INFO - Request Body: b''
+2023-12-27 14:11:30,390 - INFO - Response Status: 200
+2023-12-27 14:11:30,390 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:30,390 - INFO - Request Body: b'Login=user2&Password=12345'
+2023-12-27 14:11:30,390 - INFO - Response Status: 400
+2023-12-27 14:11:33,446 - INFO - Using default request storage
+2023-12-27 14:11:33,469 - INFO - Created proxy listening on 127.0.0.1:63501
+2023-12-27 14:11:38,822 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:38,828 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:11:38,886 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:38,892 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:11:39,138 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:39,143 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:11:39,152 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user3
+2023-12-27 14:11:39,159 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user3 200 OK
+2023-12-27 14:11:39,227 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:39,227 - INFO - Request Body: b''
+2023-12-27 14:11:39,227 - INFO - Response Status: 200
+2023-12-27 14:11:39,227 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:39,227 - INFO - Request Body: b''
+2023-12-27 14:11:39,227 - INFO - Response Status: 200
+2023-12-27 14:11:39,227 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:39,227 - INFO - Request Body: b'Login=user3&Password=12345'
+2023-12-27 14:11:39,227 - INFO - Response Status: 302
+2023-12-27 14:11:39,227 - INFO - Request URL: http://127.0.0.1:5000/download_file/user3
+2023-12-27 14:11:39,227 - INFO - Request Body: b''
+2023-12-27 14:11:39,227 - INFO - Response Status: 200
+2023-12-27 14:11:42,278 - INFO - Using default request storage
+2023-12-27 14:11:42,285 - INFO - Created proxy listening on 127.0.0.1:63526
+2023-12-27 14:11:47,597 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:47,603 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:11:47,651 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:47,658 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:11:47,907 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:47,912 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:11:47,967 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:47,967 - INFO - Request Body: b''
+2023-12-27 14:11:47,967 - INFO - Response Status: 200
+2023-12-27 14:11:47,967 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:47,967 - INFO - Request Body: b''
+2023-12-27 14:11:47,967 - INFO - Response Status: 200
+2023-12-27 14:11:47,967 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:47,967 - INFO - Request Body: b'Login=user4&Password=12345'
+2023-12-27 14:11:47,967 - INFO - Response Status: 400
+2023-12-27 14:11:51,022 - INFO - Using default request storage
+2023-12-27 14:11:51,046 - INFO - Created proxy listening on 127.0.0.1:63549
+2023-12-27 14:11:56,427 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:56,432 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:11:56,490 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:56,498 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:11:56,780 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:56,786 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:11:56,798 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user5
+2023-12-27 14:11:56,806 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user5 200 OK
+2023-12-27 14:11:56,891 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:56,891 - INFO - Request Body: b''
+2023-12-27 14:11:56,891 - INFO - Response Status: 200
+2023-12-27 14:11:56,891 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:11:56,891 - INFO - Request Body: b''
+2023-12-27 14:11:56,891 - INFO - Response Status: 200
+2023-12-27 14:11:56,891 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:11:56,891 - INFO - Request Body: b'Login=user5&Password=12345'
+2023-12-27 14:11:56,891 - INFO - Response Status: 302
+2023-12-27 14:11:56,892 - INFO - Request URL: http://127.0.0.1:5000/download_file/user5
+2023-12-27 14:11:56,892 - INFO - Request Body: b''
+2023-12-27 14:11:56,892 - INFO - Response Status: 200
+2023-12-27 14:11:59,941 - INFO - Using default request storage
+2023-12-27 14:11:59,948 - INFO - Created proxy listening on 127.0.0.1:63579
+2023-12-27 14:12:05,312 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:05,317 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:12:05,370 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:05,378 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:12:05,634 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:05,640 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:12:05,689 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:05,689 - INFO - Request Body: b''
+2023-12-27 14:12:05,689 - INFO - Response Status: 200
+2023-12-27 14:12:05,689 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:05,690 - INFO - Request Body: b''
+2023-12-27 14:12:05,690 - INFO - Response Status: 200
+2023-12-27 14:12:05,690 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:05,690 - INFO - Request Body: b'Login=user6&Password=12345'
+2023-12-27 14:12:05,690 - INFO - Response Status: 400
+2023-12-27 14:12:08,740 - INFO - Using default request storage
+2023-12-27 14:12:08,747 - INFO - Created proxy listening on 127.0.0.1:63602
+2023-12-27 14:12:14,143 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:14,149 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:12:14,207 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:14,215 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:12:14,456 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:14,461 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:12:14,508 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:14,509 - INFO - Request Body: b''
+2023-12-27 14:12:14,509 - INFO - Response Status: 200
+2023-12-27 14:12:14,509 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:14,509 - INFO - Request Body: b''
+2023-12-27 14:12:14,509 - INFO - Response Status: 200
+2023-12-27 14:12:14,509 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:14,509 - INFO - Request Body: b'Login=user7&Password=12345'
+2023-12-27 14:12:14,509 - INFO - Response Status: 400
+2023-12-27 14:12:17,552 - INFO - Using default request storage
+2023-12-27 14:12:17,564 - INFO - Created proxy listening on 127.0.0.1:63625
+2023-12-27 14:12:22,956 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:22,960 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:12:23,014 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:23,023 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:12:23,262 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:23,268 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:12:23,278 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user8
+2023-12-27 14:12:23,284 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user8 200 OK
+2023-12-27 14:12:23,362 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:23,362 - INFO - Request Body: b''
+2023-12-27 14:12:23,362 - INFO - Response Status: 200
+2023-12-27 14:12:23,362 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:23,362 - INFO - Request Body: b''
+2023-12-27 14:12:23,362 - INFO - Response Status: 200
+2023-12-27 14:12:23,362 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:23,362 - INFO - Request Body: b'Login=user8&Password=12345'
+2023-12-27 14:12:23,362 - INFO - Response Status: 302
+2023-12-27 14:12:23,362 - INFO - Request URL: http://127.0.0.1:5000/download_file/user8
+2023-12-27 14:12:23,362 - INFO - Request Body: b''
+2023-12-27 14:12:23,362 - INFO - Response Status: 200
+2023-12-27 14:12:26,420 - INFO - Using default request storage
+2023-12-27 14:12:26,427 - INFO - Created proxy listening on 127.0.0.1:63650
+2023-12-27 14:12:31,773 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:31,778 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:12:31,825 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:31,834 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:12:32,071 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:32,077 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:12:32,131 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:32,131 - INFO - Request Body: b''
+2023-12-27 14:12:32,132 - INFO - Response Status: 200
+2023-12-27 14:12:32,132 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:32,132 - INFO - Request Body: b''
+2023-12-27 14:12:32,132 - INFO - Response Status: 200
+2023-12-27 14:12:32,132 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:32,132 - INFO - Request Body: b'Login=user9&Password=12345'
+2023-12-27 14:12:32,132 - INFO - Response Status: 400
+2023-12-27 14:12:35,193 - INFO - Using default request storage
+2023-12-27 14:12:35,205 - INFO - Created proxy listening on 127.0.0.1:63675
+2023-12-27 14:12:40,593 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:40,599 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:12:40,645 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:40,654 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:12:40,989 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:40,997 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:12:41,011 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user10
+2023-12-27 14:12:41,022 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user10 200 OK
+2023-12-27 14:12:41,134 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:41,134 - INFO - Request Body: b''
+2023-12-27 14:12:41,134 - INFO - Response Status: 200
+2023-12-27 14:12:41,134 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:12:41,135 - INFO - Request Body: b''
+2023-12-27 14:12:41,135 - INFO - Response Status: 200
+2023-12-27 14:12:41,135 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:12:41,135 - INFO - Request Body: b'Login=user10&Password=12345'
+2023-12-27 14:12:41,135 - INFO - Response Status: 302
+2023-12-27 14:12:41,135 - INFO - Request URL: http://127.0.0.1:5000/download_file/user10
+2023-12-27 14:12:41,135 - INFO - Request Body: b''
+2023-12-27 14:12:41,135 - INFO - Response Status: 200
+2023-12-27 14:15:11,244 - INFO - Using default request storage
+2023-12-27 14:15:11,272 - INFO - Created proxy listening on 127.0.0.1:63771
+2023-12-27 14:15:12,678 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:12,685 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:15:12,749 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:12,757 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:15:13,012 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:13,017 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:15:13,071 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:13,071 - INFO - Request Body: b''
+2023-12-27 14:15:13,071 - INFO - Response Status: 200
+2023-12-27 14:15:13,071 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:13,071 - INFO - Request Body: b''
+2023-12-27 14:15:13,071 - INFO - Response Status: 200
+2023-12-27 14:15:13,071 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:13,071 - INFO - Request Body: b'Login=user1&Password=12345'
+2023-12-27 14:15:13,071 - INFO - Response Status: 400
+2023-12-27 14:15:16,125 - INFO - Using default request storage
+2023-12-27 14:15:16,135 - INFO - Created proxy listening on 127.0.0.1:63792
+2023-12-27 14:15:21,470 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:21,476 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:15:21,533 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:21,540 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:15:21,783 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:21,789 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:15:21,840 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:21,840 - INFO - Request Body: b''
+2023-12-27 14:15:21,840 - INFO - Response Status: 200
+2023-12-27 14:15:21,840 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:21,840 - INFO - Request Body: b''
+2023-12-27 14:15:21,840 - INFO - Response Status: 200
+2023-12-27 14:15:21,841 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:21,841 - INFO - Request Body: b'Login=user2&Password=12345'
+2023-12-27 14:15:21,841 - INFO - Response Status: 400
+2023-12-27 14:15:24,889 - INFO - Using default request storage
+2023-12-27 14:15:24,900 - INFO - Created proxy listening on 127.0.0.1:63817
+2023-12-27 14:15:30,251 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:30,259 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:15:30,320 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:30,330 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:15:30,575 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:30,580 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:15:30,639 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:30,639 - INFO - Request Body: b''
+2023-12-27 14:15:30,639 - INFO - Response Status: 200
+2023-12-27 14:15:30,639 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:30,639 - INFO - Request Body: b''
+2023-12-27 14:15:30,639 - INFO - Response Status: 200
+2023-12-27 14:15:30,639 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:30,639 - INFO - Request Body: b'Login=user3&Password=12345'
+2023-12-27 14:15:30,639 - INFO - Response Status: 400
+2023-12-27 14:15:33,698 - INFO - Using default request storage
+2023-12-27 14:15:33,705 - INFO - Created proxy listening on 127.0.0.1:63841
+2023-12-27 14:15:39,040 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:39,046 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:15:39,130 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:39,141 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:15:39,502 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:39,507 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:15:39,516 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user4
+2023-12-27 14:15:39,524 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user4 200 OK
+2023-12-27 14:15:39,608 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:39,608 - INFO - Request Body: b''
+2023-12-27 14:15:39,609 - INFO - Response Status: 200
+2023-12-27 14:15:39,609 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:39,609 - INFO - Request Body: b''
+2023-12-27 14:15:39,609 - INFO - Response Status: 200
+2023-12-27 14:15:39,609 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:39,609 - INFO - Request Body: b'Login=user4&Password=12345'
+2023-12-27 14:15:39,609 - INFO - Response Status: 302
+2023-12-27 14:15:39,609 - INFO - Request URL: http://127.0.0.1:5000/download_file/user4
+2023-12-27 14:15:39,609 - INFO - Request Body: b''
+2023-12-27 14:15:39,609 - INFO - Response Status: 200
+2023-12-27 14:15:42,673 - INFO - Using default request storage
+2023-12-27 14:15:42,685 - INFO - Created proxy listening on 127.0.0.1:63873
+2023-12-27 14:15:48,072 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:48,078 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:15:48,137 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:48,144 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:15:48,385 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:48,391 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:15:48,444 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:48,444 - INFO - Request Body: b''
+2023-12-27 14:15:48,444 - INFO - Response Status: 200
+2023-12-27 14:15:48,444 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:48,444 - INFO - Request Body: b''
+2023-12-27 14:15:48,444 - INFO - Response Status: 200
+2023-12-27 14:15:48,444 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:48,444 - INFO - Request Body: b'Login=user5&Password=12345'
+2023-12-27 14:15:48,444 - INFO - Response Status: 400
+2023-12-27 14:15:51,523 - INFO - Using default request storage
+2023-12-27 14:15:51,547 - INFO - Created proxy listening on 127.0.0.1:63899
+2023-12-27 14:15:57,204 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:57,210 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:15:57,255 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:57,266 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:15:57,553 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:57,560 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:15:57,619 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:57,619 - INFO - Request Body: b''
+2023-12-27 14:15:57,619 - INFO - Response Status: 200
+2023-12-27 14:15:57,619 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:15:57,619 - INFO - Request Body: b''
+2023-12-27 14:15:57,619 - INFO - Response Status: 200
+2023-12-27 14:15:57,620 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:15:57,620 - INFO - Request Body: b'Login=user6&Password=12345'
+2023-12-27 14:15:57,620 - INFO - Response Status: 400
+2023-12-27 14:16:00,717 - INFO - Using default request storage
+2023-12-27 14:16:00,730 - INFO - Created proxy listening on 127.0.0.1:63929
+2023-12-27 14:16:06,278 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:06,285 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:16:06,362 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:16:06,373 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:16:06,782 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:06,790 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:16:06,805 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user7
+2023-12-27 14:16:06,817 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user7 200 OK
+2023-12-27 14:16:06,921 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:06,921 - INFO - Request Body: b''
+2023-12-27 14:16:06,921 - INFO - Response Status: 200
+2023-12-27 14:16:06,921 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:16:06,921 - INFO - Request Body: b''
+2023-12-27 14:16:06,922 - INFO - Response Status: 200
+2023-12-27 14:16:06,922 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:06,922 - INFO - Request Body: b'Login=user7&Password=12345'
+2023-12-27 14:16:06,922 - INFO - Response Status: 302
+2023-12-27 14:16:06,922 - INFO - Request URL: http://127.0.0.1:5000/download_file/user7
+2023-12-27 14:16:06,922 - INFO - Request Body: b''
+2023-12-27 14:16:06,922 - INFO - Response Status: 200
+2023-12-27 14:16:09,982 - INFO - Using default request storage
+2023-12-27 14:16:09,997 - INFO - Created proxy listening on 127.0.0.1:63956
+2023-12-27 14:16:15,584 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:15,591 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:16:15,648 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:16:15,657 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:16:15,923 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:15,928 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:16:15,984 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:15,984 - INFO - Request Body: b''
+2023-12-27 14:16:15,984 - INFO - Response Status: 200
+2023-12-27 14:16:15,984 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:16:15,984 - INFO - Request Body: b''
+2023-12-27 14:16:15,984 - INFO - Response Status: 200
+2023-12-27 14:16:15,984 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:15,984 - INFO - Request Body: b'Login=user8&Password=12345'
+2023-12-27 14:16:15,984 - INFO - Response Status: 400
+2023-12-27 14:16:19,049 - INFO - Using default request storage
+2023-12-27 14:16:19,063 - INFO - Created proxy listening on 127.0.0.1:63981
+2023-12-27 14:16:24,521 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:24,529 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:16:24,585 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:16:24,593 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:16:24,863 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:24,870 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:16:24,930 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:24,931 - INFO - Request Body: b''
+2023-12-27 14:16:24,931 - INFO - Response Status: 200
+2023-12-27 14:16:24,931 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:16:24,931 - INFO - Request Body: b''
+2023-12-27 14:16:24,931 - INFO - Response Status: 200
+2023-12-27 14:16:24,931 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:24,931 - INFO - Request Body: b'Login=user9&Password=12345'
+2023-12-27 14:16:24,931 - INFO - Response Status: 400
+2023-12-27 14:16:27,989 - INFO - Using default request storage
+2023-12-27 14:16:28,012 - INFO - Created proxy listening on 127.0.0.1:64004
+2023-12-27 14:16:33,457 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:33,462 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:16:33,511 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:16:33,521 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:16:33,788 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:33,796 - INFO - Capturing response: http://127.0.0.1:5000/authorization 302 FOUND
+2023-12-27 14:16:33,807 - INFO - Capturing request: http://127.0.0.1:5000/download_file/user10
+2023-12-27 14:16:33,815 - INFO - Capturing response: http://127.0.0.1:5000/download_file/user10 200 OK
+2023-12-27 14:16:33,895 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:33,895 - INFO - Request Body: b''
+2023-12-27 14:16:33,895 - INFO - Response Status: 200
+2023-12-27 14:16:33,895 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:16:33,895 - INFO - Request Body: b''
+2023-12-27 14:16:33,895 - INFO - Response Status: 200
+2023-12-27 14:16:33,895 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:16:33,895 - INFO - Request Body: b'Login=user10&Password=12345'
+2023-12-27 14:16:33,896 - INFO - Response Status: 302
+2023-12-27 14:16:33,896 - INFO - Request URL: http://127.0.0.1:5000/download_file/user10
+2023-12-27 14:16:33,896 - INFO - Request Body: b''
+2023-12-27 14:16:33,896 - INFO - Response Status: 200
+2023-12-27 14:22:28,826 - INFO - Using default request storage
+2023-12-27 14:22:28,843 - INFO - Created proxy listening on 127.0.0.1:64128
+2023-12-27 14:22:30,306 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:22:30,312 - INFO - Capturing response: http://127.0.0.1:5000/authorization 200 OK
+2023-12-27 14:22:30,370 - INFO - Capturing request: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:22:30,379 - INFO - Capturing response: http://127.0.0.1:5000/static/css/auth.css 200 OK
+2023-12-27 14:22:30,770 - INFO - Capturing request: http://127.0.0.1:5000/authorization
+2023-12-27 14:22:30,776 - INFO - Capturing response: http://127.0.0.1:5000/authorization 400 BAD REQUEST
+2023-12-27 14:22:30,849 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:22:30,849 - INFO - Request Body: b''
+2023-12-27 14:22:30,850 - INFO - Response Status: 200
+2023-12-27 14:22:30,850 - INFO - Request URL: http://127.0.0.1:5000/static/css/auth.css
+2023-12-27 14:22:30,850 - INFO - Request Body: b''
+2023-12-27 14:22:30,850 - INFO - Response Status: 200
+2023-12-27 14:22:30,850 - INFO - Request URL: http://127.0.0.1:5000/authorization
+2023-12-27 14:22:30,850 - INFO - Request Body: b'Login=user1&Password=12345'
+2023-12-27 14:22:30,850 - INFO - Response Status: 400
