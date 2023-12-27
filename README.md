@@ -2,6 +2,7 @@
 Тестирование с Python + Selenium
 
 В файле users.txt логины и пароли тестовых пользователей
+
 files_check - gапка для файлов pdf 
 
 check_pdf.py - скрипт проверки pdf
